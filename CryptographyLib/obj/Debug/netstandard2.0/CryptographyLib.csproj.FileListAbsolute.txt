@@ -1,0 +1,9 @@
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.deps.json
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.dll
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.pdb
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.csprojAssemblyReference.cache
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.csproj.CoreCompileInputs.cache
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfoInputs.cache
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfo.cs
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.dll
+/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.pdb

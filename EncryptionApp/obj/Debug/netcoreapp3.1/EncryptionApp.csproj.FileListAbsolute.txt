@@ -1,0 +1,15 @@
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/bin/Debug/netcoreapp3.1/EncryptionApp.deps.json
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/bin/Debug/netcoreapp3.1/EncryptionApp.runtimeconfig.json
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/bin/Debug/netcoreapp3.1/EncryptionApp.runtimeconfig.dev.json
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/bin/Debug/netcoreapp3.1/EncryptionApp.dll
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/bin/Debug/netcoreapp3.1/EncryptionApp.pdb
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/obj/Debug/netcoreapp3.1/EncryptionApp.csprojAssemblyReference.cache
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/obj/Debug/netcoreapp3.1/EncryptionApp.csproj.CoreCompileInputs.cache
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/obj/Debug/netcoreapp3.1/EncryptionApp.AssemblyInfoInputs.cache
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/obj/Debug/netcoreapp3.1/EncryptionApp.AssemblyInfo.cs
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/obj/Debug/netcoreapp3.1/EncryptionApp.dll
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/obj/Debug/netcoreapp3.1/EncryptionApp.pdb
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/obj/Debug/netcoreapp3.1/EncryptionApp.genruntimeconfig.cache
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/bin/Debug/netcoreapp3.1/CryptographyLib.dll
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/bin/Debug/netcoreapp3.1/CryptographyLib.pdb
+/Users/brianwright/workspaces/csharp/chapter10/EncryptionApp/obj/Debug/netcoreapp3.1/EncryptionApp.csproj.CopyComplete

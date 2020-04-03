@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uw+rqjNZTT1kAaElSGHMF48yNmqzNhc3DdGrKUs8lnZjfZPffmiR8m5CO2MKQDaXnaGq+qnoBAUwq3LBwvIxuQ==",
+  "success": true,
+  "projectFilePath": "/Users/brianwright/workspaces/csharp/chapter10/CryptographyLib/CryptographyLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/brianwright/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/brianwright/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
